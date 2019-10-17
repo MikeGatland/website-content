@@ -271,5 +271,5 @@ const slugify = compose(
   split(' ')
 )
 
-slufigy('Hello World') // hello-world
+slugify('Hello World') // hello-world
 ```
